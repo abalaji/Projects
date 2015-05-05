@@ -1,0 +1,11 @@
+Starting H100 tests for BIST
+#######################################
+H100 Built In Self Test Executable...
+#######################################
+1 Nallatech card(s) found.
+Details of card number 1, of 1:
+	Card Description : H100-PCIX
+	Card Serial Number : 14876
+	Card Firmware Version : 1000c
+Sram PCIX Idelay Status 120012
+Setting the clocks to the programmable oscillators
